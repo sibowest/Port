@@ -1,1 +1,1 @@
-This is my portfolio made with html, css and bootstrap. 
+This is my portfolio made with html, css, javaScript and bootstrap. 
